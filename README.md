@@ -1,3 +1,7 @@
+# 此代码为网上大佬代码
+# 复制下来用于学习
+# 在必要的地方增添了一些注释
+
 # new-YOLOv1_PyTorch
 In this project, you can enjoy: 
 - a new version of yolov1
